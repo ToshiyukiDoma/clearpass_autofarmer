@@ -1,5 +1,10 @@
 # DJMAX Clear Pass Auto-Farmer
 
+## What is this?
+
+This is just a "glorified" hotkey for F5 and Enter buttons that will alternate between a second.
+Just press F1 to start or stop the automation. xd
+
 ## How to use?
 
 1. Run this app.
